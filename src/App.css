@@ -1,0 +1,10 @@
+body {
+  font-family: Iosevka;
+  color: #f9f06b;
+  background-color: #151716;
+}
+
+.container {
+  display: grid;
+  grid-template-columns: auto 50% auto;
+}
